@@ -4,4 +4,4 @@ We’ll discuss how to use OpenCV to stream video from a webcam to a web browser
 ![alt text](https://github.com/sagarbhure/VideoSurveillance/blob/master/webstream.jfif)
 
 # How to run
- Run the pytohn script webstream on a rasberry pi and stream the live video on all the devices on the same network.
+ Run the python script webstream on a rasberry pi and stream the live video on all the devices on the same network.
